@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:mc_queen_95/views/pages/home/home.dart';
+import 'package:mc_queen_95/views/pages/home/home.page.dart';
 
 void main() {
   runApp(

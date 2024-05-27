@@ -1,0 +1,7 @@
+enum HomeStates{
+  INIT,
+  CONNECTING,
+  CONNECTED,
+  DISCONNECTED,
+  ERROR,
+}
